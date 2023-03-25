@@ -1,0 +1,24 @@
+.stocktable{
+    margin: 50px auto;
+    border-collapse: collapse;
+    border: 1px solid black;
+  }
+  
+th,
+td {
+    width: 150px;
+    border: 1px solid black;
+    padding: 5px;
+  }
+#tradingview_e4e43{
+  width: 80%;
+  margin: auto;
+  height: 500px;
+
+}
+.stockprices{
+  margin-top: -40px;
+  margin-bottom: 100px;
+
+}
+  
